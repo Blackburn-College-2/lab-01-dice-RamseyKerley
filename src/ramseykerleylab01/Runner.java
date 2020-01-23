@@ -3,15 +3,17 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package emptyjavaproject;
+package ramseykerleylab01;
 
 /**
  *
  * @author paul.kline
  */
-public class Main {
+public class Runner {
 
     /**
+     * 3 and a half hours is what I estimate it will take to finish this project
+     * 
      * @param args the command line arguments
      */
     public static void main(String[] args) {
