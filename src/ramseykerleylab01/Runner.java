@@ -5,6 +5,8 @@
  */
 package ramseykerleylab01;
 
+
+
 /**
  *
  * @author paul.kline
@@ -18,6 +20,9 @@ public class Runner {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Die x = new Die(300);
+       Roller y = new Roller(x);
+       
     }
     
 }

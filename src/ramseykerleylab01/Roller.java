@@ -10,5 +10,16 @@ package ramseykerleylab01;
  * @author ramsey.kerley
  */
 public class Roller {
-    
+    /**
+     * this class roll the dice
+     */
+   public Roller(Die roll){
+       
+       while(true){
+           
+          System.out.println(roll.roll());
+       }
+       
+       
+   }
 }
