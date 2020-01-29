@@ -20,8 +20,9 @@ public class Runner {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Die x = new Die(300);
-       Roller y = new Roller(x);
+        //Die x = new Die(300);
+       //Roller y = new Roller(x);
+       Counter g = new Counter();
        
     }
     
